@@ -1,0 +1,12 @@
+####{BSB GENERATED: NO EDIT
+B lib\bs
+FLG -open EnumyMain
+FLG -ppx "C:\Users\lptur\enumy-main\node_modules\bs-platform\win32\bsc.exe -as-ppx -bs-jsx 3"
+S C:\Users\lptur\enumy-main\node_modules\bs-platform\lib\ocaml
+B C:\Users\lptur\enumy-main\node_modules\bs-platform\lib\ocaml
+FLG -w +a-4-9-20-40-41-42-50-61-102
+S C:\Users\lptur\enumy-main\node_modules\@rescript\react\lib\ocaml
+B C:\Users\lptur\enumy-main\node_modules\@rescript\react\lib\ocaml
+S src
+B lib\bs\src
+####BSB GENERATED: NO EDIT}
